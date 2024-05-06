@@ -1,8 +1,9 @@
 #Guardando quantas aulas de cada dia
-sabado = int(input("Coloque quantos sábados deu aula: "))
-segunda = int(input("Coloque quantas segundas deu aula: "))
-quarta = int(input("Coloque quantas quartas deu aula: "))
-sexta = int(input("Coloque quantas sextas deu aula: "))
+sabado = int(input("Coloque quantos sábados deu aula:"))
+segunda = int(input("Coloque quantas segundas deu aula:"))
+quarta = int(input("Coloque quantas quartas deu aula:"))
+sexta = int(input("Coloque quantas sextas deu aula:"))
+print()
 
 #Conta utilizando como base o site 
 sabadoaula = sabado * 1.50
@@ -20,6 +21,6 @@ total = int(total)
 totalhoras = int(totalhoras)
 
 #Printando tudo
-print("O total de horas trabalhadas é: ", totalhoras)
-print("O total de aulas é: ", totalaulas)
-print("O total de dinheiro recebido é: ", total)
+print("O total de horas trabalhadas é:", totalhoras)
+print("O total de aulas é:", totalaulas)
+print("O total de dinheiro recebido é:", total)
