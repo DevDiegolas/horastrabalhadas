@@ -1,8 +1,8 @@
 #Guardando quantas aulas de cada dia
-sabado = int(input("Coloque quantos sábados deu aula:"))
-segunda = int(input("Coloque quantas segundas deu aula:"))
-quarta = int(input("Coloque quantas quartas deu aula:"))
-sexta = int(input("Coloque quantas sextas deu aula:"))
+sabado = int(input("Coloque quantos sábados deu aula: "))
+segunda = int(input("Coloque quantas segundas deu aula: "))
+quarta = int(input("Coloque quantas quartas deu aula: "))
+sexta = int(input("Coloque quantas sextas deu aula: "))
 print()
 
 #Conta utilizando como base o site 
